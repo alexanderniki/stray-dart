@@ -4,3 +4,7 @@
 
 # MacOS specific files
 .DS_Store
+
+# Compiled executables
+stray
+*.exe

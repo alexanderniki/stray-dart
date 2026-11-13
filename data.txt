@@ -1,0 +1,10 @@
+Simplicity is the soul of efficiency. — Austin Freeman
+Чистый код всегда выглядит так, будто он написан тем, кому не всё равно.
+The journey of a thousand miles begins with a single step. 🚀
+Spec-Driven Development ensures your software does exactly what is intended.
+Архитектура — это искусство принятия решений о том, что нельзя изменить легко.
+Premature optimization is the root of all evil. — Donald Knuth
+Доверяй тестам, проверяй спецификацию, держи функции чистыми.
+A computer will do what you tell it to do, but that may be much different from what you had in mind.
+Не бойся медлить, бойся остановиться. — Китайская пословица 🎋
+Good code is its own best documentation. As you're about to add a comment, ask yourself: How can I improve the code so that this comment isn't needed?
